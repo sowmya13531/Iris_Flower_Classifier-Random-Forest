@@ -24,10 +24,10 @@ Virginica
 Accuracy: 93.75%
 # Confusion Matrix:
 Predicted     setosa  versicolor  virginica
-Actual                                    
-setosa           13           0          0
-versicolor        0           5          2
-virginica         0           0         12
+Actual                            
+setosa           13           0    0
+versicolor        0           5    2
+virginica         0           0   12
 # 📁 Key Steps
 1.Load and explore the Iris dataset
 2.Convert species names to numeric labels
