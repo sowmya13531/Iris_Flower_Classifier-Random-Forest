@@ -7,9 +7,22 @@ Algorithm: Random Forest Classifier
 Tools: Python, Pandas, scikit-learn, NumPy
 Train/Test Split: 75% training, 25% testing (randomly assigned)
 
+## 🧪 Dataset Information
+# Features:
+Sepal length (cm)
+Sepal width (cm)
+Petal length (cm)
+Petal width (cm)
+
+# Target:
+Setosa
+Versicolor
+Virginica
+
+
 # 📊 Model Performance
 Accuracy: 93.75%
-Confusion Matrix:
+# Confusion Matrix:
 Predicted     setosa  versicolor  virginica
 Actual                                    
 setosa           13           0          0
