@@ -55,7 +55,8 @@ virginica         0           0   12
 
 # 📦 Requirements
 bash
-``` pip install pandas scikit-learn numpy ```
+``` pip install pandas scikit-learn numpy
+```
 
 ▶️ Run the notebook
 You can run the code directly in Google Colab or any local Python environment.
