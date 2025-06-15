@@ -36,8 +36,11 @@ Accuracy: 93.75%
 Predicted     setosa  versicolor  virginica
 Actual                            
 setosa           13           0    0
+
 versicolor        0           5    2
+
 virginica         0           0   12
+
 # 📁 Key Steps
 1.Load and explore the Iris dataset
 
