@@ -3,21 +3,31 @@ This project demonstrates a basic machine learning workflow using the classic Ir
 
 # ✅ Project Summary
 Dataset: Iris (150 samples, 3 classes)
+
 Algorithm: Random Forest Classifier
+
 Tools: Python, Pandas, scikit-learn, NumPy
+
 Train/Test Split: 75% training, 25% testing (randomly assigned)
 
 ## 🧪 Dataset Information
 # Features:
 Sepal length (cm)
+
 Sepal width (cm)
+
 Petal length (cm)
+
 Petal width (cm)
+
 
 # Target:
 Setosa
+
 Versicolor
+
 Virginica
+
 
 
 # 📊 Model Performance
@@ -30,10 +40,15 @@ versicolor        0           5    2
 virginica         0           0   12
 # 📁 Key Steps
 1.Load and explore the Iris dataset
+
 2.Convert species names to numeric labels
+
 3.Split data into train/test using random uniform sampling
+
 4.Train a RandomForestClassifier
+
 5.Evaluate using confusion matrix and accuracy score
+
 
 # 📦 Requirements
 bash ``` pip install pandas scikit-learn numpy ```
